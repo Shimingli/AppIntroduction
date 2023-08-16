@@ -3,7 +3,7 @@ title: LED字幕App介绍
 date: 2021-04-15 13:57:59
 categories: App
 tags: [LED字幕]
-img: /img/tag/led3.png
+img: /img/tag/img.png
 ---
 
 #### LED字幕的介绍

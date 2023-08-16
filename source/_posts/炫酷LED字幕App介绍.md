@@ -2,7 +2,7 @@
 title: 炫酷LED字幕App介绍
 categories: App
 date: 2021-08-15 13:57:00
-img: /img/tag/led6.png
+img: /img/tag/img_1.png
 tags: [炫酷LED字幕]
 ---
 
